@@ -53,6 +53,5 @@ public class Main {
         numberWorkers = numberWorkers+94;
         var if94WorkersMore = numberWorkers*hoursPerWorker;
         System.out.println("Если в компании работает "+numberWorkers+" человека, то всего "+if94WorkersMore+" часов работы может быть поделено между сотрудниками");
-
     }
 }
